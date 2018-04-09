@@ -1,0 +1,12 @@
+body{
+  text-align: center;
+  background-color: aliceblue;
+}
+
+.wrapper{
+  background-color: LemonChiffon;
+}
+img {
+    width: 7%;
+    height: auto;
+}
