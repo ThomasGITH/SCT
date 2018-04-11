@@ -10,3 +10,17 @@ img {
     width: 7%;
     height: auto;
 }
+
+table {
+    margin: auto;
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 50%;
+    background-color: white;
+}
+
+td, th {
+    border: 2px solid #dddddd;
+    text-align: center;
+    padding: 8px;
+}
