@@ -1,1 +1,1 @@
-"# fro3-1718-MD-quiz" 
+http://25076.hosts.ma-cloud.nl/bewijzenmap/periode1.3/sct/quiz/index.html
