@@ -1,0 +1,20 @@
+
+body{
+  background-color: lightblue;
+  text-align: center;
+}
+
+li{
+  background-color: blue;
+  border-radius: 5px;
+  text-align: center;
+  padding: 8px;
+  width: 230px;
+  border: 2px black solid;
+  list-style-type: none;
+  margin: 5px;
+}
+
+.wrapper{
+  width: 350px;
+  margin: auto;}
